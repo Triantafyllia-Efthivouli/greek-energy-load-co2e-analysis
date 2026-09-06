@@ -83,7 +83,7 @@ Therefore, the CO₂e results in this project should be interpreted as **estimat
 
 ## Dashboard Preview
 
-A screenshot of the final Power BI dashboard will be added here.
+![Dashboard Overview](dashboard-overview.png)
 
 ## Repository Contents
 - Power BI dashboard
