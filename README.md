@@ -86,7 +86,7 @@ Therefore, the CO₂e results in this project should be interpreted as **estimat
 ![Dashboard Overview](dashboard-overview.png)
 
 ## Repository Contents
-- Power BI dashboard
-- Python data-download script
-- Dashboard screenshots
-- Project documentation
+- [Power BI Dashboard](Greek_Energy_Consumption_CO2_Dashboard.pbix)
+- [Python Data Download Script](download_admie_system_load_2025.py)
+- [Dashboard Screenshot](dashboard-overview.png)
+- README documentation
